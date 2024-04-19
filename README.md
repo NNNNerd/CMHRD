@@ -16,7 +16,7 @@ MMDetection=2.28.2
 
 # Data
 
-NOAA-Seal dataset [Google Drive]()
+NOAA-Seal dataset [Baidu Netdisk](https://pan.baidu.com/s/1n9uznb4ewSr_N2Qoz-ZMNQ?pwd=gkw3) (Extraction code: gkw3)
 
 ![NOAA-Seal examples](figures/noaa_example2.jpg)
 
