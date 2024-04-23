@@ -44,3 +44,16 @@ Test CMHRD:
 ```
 python test.py cmhrd_configs/atss_r50_fpn_p3_qls_2x_cmhrd_noaa.py /path/to/pth/ --eval bbox
 ```
+
+# Citation
+```
+@ARTICLE{10495059,
+  author={Zhang, Yan and Lei, Xu and Hu, Qian and Xu, Chang and Yang, Wen and Xia, Gui-Song},
+  journal={IEEE Transactions on Geoscience and Remote Sensing}, 
+  title={Learning Cross-Modality High-Resolution Representation for Thermal Small-Object Detection}, 
+  year={2024},
+  volume={62},
+  number={},
+  pages={1-15},
+  doi={10.1109/TGRS.2024.3386735}}
+```
