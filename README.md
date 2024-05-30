@@ -18,6 +18,8 @@ MMDetection=2.28.2
 
 NOAA-Seal dataset [Baidu Netdisk](https://pan.baidu.com/s/1n9uznb4ewSr_N2Qoz-ZMNQ?pwd=gkw3) (Extraction code: gkw3)
 
+VTUAV-det RGB and TIR annotations [Google Drive](https://drive.google.com/drive/folders/1ZZ8I_mA0gJn_Et30Wmhw5U__DYoJjiXe?usp=drive_link)
+
 ![NOAA-Seal examples](figures/noaa_example2.jpg)
 
 If you use NOAA-Seal in your work, please cite us and also cite:
